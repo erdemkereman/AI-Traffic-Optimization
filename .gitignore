@@ -222,3 +222,4 @@ __marimo__/
 # Project-specific exclusions
 .idea/
 .env.*
+.env
